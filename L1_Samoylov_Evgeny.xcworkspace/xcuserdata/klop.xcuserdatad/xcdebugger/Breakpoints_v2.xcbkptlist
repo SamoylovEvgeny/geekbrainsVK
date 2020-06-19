@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6553EEF6-70A1-4A12-8618-19A2934ED69D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD26CE32-239A-4640-90E8-6D2FF2C556CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/Friends/Friends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84C7CBA1-FA3D-4558-93CE-5B82B4C61443"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/Friends/Friends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - df1538da475c6948"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.ownerId.getter : Swift.Int"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - dc92f6ce0dfdbd44"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.ownerId.setter : Swift.Int"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - e6f8d9ab82df4c4b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.ownerId.modify : Swift.Int"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - 667060e75500d244"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.ownerId.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - 2643803b3a6a764e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; L1_Samoylov_Evgeny.FriendsPhotos"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - ef35876356548dc7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; L1_Samoylov_Evgeny.FriendsPhotos"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "B32C1DD8-4AB5-49C0-B9F9-50B5114B250F - 5c22674f0e993fac"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;L1_Samoylov_Evgeny.FriendsPhotos&gt;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - 11b2d6c81f5940ed"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.friendsPhotos.getter : Swift.Array&lt;__C.UIImage&gt;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - 2cb5383ef497cf19"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.friendsPhotos.setter : Swift.Array&lt;__C.UIImage&gt;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - 44733c688481f0e8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.friendsPhotos.modify : Swift.Array&lt;__C.UIImage&gt;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - b5b739dcb75c9f83"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.friendsPhotos.modify : Swift.Array&lt;__C.UIImage&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - 2643803b3a6a764e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.init(collectionViewLayout: __C.UICollectionViewLayout) -&gt; L1_Samoylov_Evgeny.FriendsPhotos"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "133">
+               </Location>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - ef35876356548dc7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; L1_Samoylov_Evgeny.FriendsPhotos"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "B9DB2FF6-D7FA-43A2-A908-D9246AD473E5 - 5c22674f0e993fac"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "L1_Samoylov_Evgeny.FriendsPhotos.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;L1_Samoylov_Evgeny.FriendsPhotos&gt;"
+                  moduleName = "L1_Samoylov_Evgeny"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klop/Desktop/IOS/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%CC%86%D1%81%D0%BE%D0%B2/clientServerIos/L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "162">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD697ED8-22CF-4C18-A4CE-205695268523"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1090D97B-FED4-4D3B-BF20-FB84B076BFAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3833C50-F2A6-45A3-9D47-8E859F29FAFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "L1_Samoylov_Evgeny/FriendsPhotos/FriendsPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
